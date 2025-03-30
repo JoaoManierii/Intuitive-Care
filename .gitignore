@@ -1,0 +1,14 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+# Arquivo de credenciais e variáveis
+.env
