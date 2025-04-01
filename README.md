@@ -1,5 +1,5 @@
 
-# 🧪 Teste Técnico - Intuitive Care
+# 🧪 - Intuitive Care
 
 Este repositório contém a resolução dos quatro exercícios propostos. Cada exercício aborda uma habilidade prática diferente.
 
