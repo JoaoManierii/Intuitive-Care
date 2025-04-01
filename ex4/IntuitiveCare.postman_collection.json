@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "d41fc4fe-3373-4cb3-9fe8-344dcf247dc5",
+		"name": "IntuitiveCare",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "35117029"
+	},
+	"item": [
+		{
+			"name": "BuscaGenerica",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "BuscaGenerica2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "BuscaGenerica3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
