@@ -1,0 +1,22 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar cache do node
+
+node_modules/
+package-lock.json
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+# Arquivo de credenciais e variáveis
+.env
