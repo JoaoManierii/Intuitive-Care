@@ -4,7 +4,7 @@ Este script em Python realiza automaticamente o download dos **Anexos I e II** d
 
 ---
 
-## 📌 O que o script faz?
+## 📌 O que o script faz??
 
 1. Acessa a página oficial da ANS com a lista de procedimentos atualizada:
    - [`https://www.gov.br/ans/.../atualizacao-do-rol-de-procedimentos`](https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos)
