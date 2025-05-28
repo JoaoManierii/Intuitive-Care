@@ -1,4 +1,4 @@
-# 🔎 Download e Compactação dos Anexos da ANS (Rol de Procedimentos)
+# 🔎 Download e Compactação dos Anexos da ANS (Rol de Procedimentos).
 
 Este script em Python realiza automaticamente o download dos **Anexos I e II** disponibilizados no site oficial da **ANS (Agência Nacional de Saúde Suplementar)** e os salva em uma pasta local, além de criar um arquivo `.zip` contendo os dois PDFs.
 
